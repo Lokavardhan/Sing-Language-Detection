@@ -5,7 +5,6 @@ Sing-Language-Detection is a language detection tool designed to identify the la
 
 Features
 --------
-
 -   Fast and accurate language detection: Utilizing advanced Natural Language Processing (NLP) techniques, this tool can swiftly identify the language of your text input with high accuracy.
 
 -   Support for multiple languages: The tool can recognize a wide range of languages, making it suitable for diverse language detection tasks.
